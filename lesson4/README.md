@@ -22,8 +22,10 @@ update accounts set amount = amount + 1 where id = 2;
 update accounts set amount = amount + 1 where id = 1;
 ```
 В итоге я словил deadlock
+
 <img width="624" alt="изображение" src="https://github.com/user-attachments/assets/710c2943-5ac8-4ad0-9f62-17a0ac36bad8" />
 
 Скриншот логов самого докер-контейнера
+
 <img width="1113" alt="изображение" src="https://github.com/user-attachments/assets/eda5693a-7572-4a42-895a-976ad12dd2c5" />
 
