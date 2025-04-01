@@ -49,6 +49,7 @@ EXPLAIN запроса
 
 <img width="652" alt="изображение" src="https://github.com/user-attachments/assets/cbe85e7a-347e-4194-a5f5-1ea6e2091252" />
 
-![Uploading изображение.png…]()
+<img width="787" alt="изображение" src="https://github.com/user-attachments/assets/187f26e0-c717-4f25-94bf-a6c2e04eb7a9" />
+
 
 
